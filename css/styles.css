@@ -1,0 +1,29 @@
+body {
+    background-color: lightslategrey;
+}
+h2 {
+    font-size : 25pt;
+    font-family : Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align : center;
+}
+h5 {
+    font-size : 20pt;
+    font-family : Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+label {
+    font-size : 15pt;
+    font-family : Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+input {
+    font-size : 10pt;
+    font-family : Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width : 20%;
+}
+button {
+    font-size : 15pt;
+    font-family : Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p {
+    font-size : 15pt;
+    font-family : Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
